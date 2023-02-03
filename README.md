@@ -1,3 +1,13 @@
-# Contemporary Issues In Data
+# TikTok and its data collection issues
+In this document, two articles of opposing sides 
+will be discussed, one for the banning of Tiktok on all platforms, and the other on why TikTok is striving to become a more transparent company.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+According to the Verge's [Apple and Google face mounting pressure to remove TikTok from app stores](https://www.theverge.com/2023/2/2/23581832/tiktok-apple-google-app-store-removal-ban-tiktok-bennet-josh-hawley-china), Senator Michael Bennet, a democrat from Colorado, asked the CEO of Apple and Google to make a decision on to remove the TikTok app from their appstores. In a rare occasion of bipartisan unison, the Repiblicans and the Democrats have been calling for a ban or a restriction on the app. There have been attempts for negotiations with the US government from TikTok, albeit unsuccessful. According to the article, TikTok was found in several violations of accessing and breaching US data, although they were promptly dealt with, with its attempts to become more and more transparent through the announced Project Texas, where it will attempt to separate from the Chinese servers to Oracle. Many US lawmakers are concerned with the Bytedance's ability to easily access US users' data, and its connection to the Chinese Community Party is concerning as well.
+
+These concerns are well warranted, and the US lawmakers have to put their feet down in this particular problem. Breach to the US data is a breach in US security, and if there are no strict restrictions and repurcussions, the consequences would be disasterous. US must either strike a deal with Bytedance, Tiktok's parent organization, or remove it from their appstore indefinately to end the madness.
+
+## Article 2
+In CNBC's [https://www.arabnews.com/node/2244186/media](https://www.cnbc.com/2022/07/01/tiktok-says-its-working-to-protect-user-data-from-chinese-employees.html), TikTok attempts to address the current data collection concerns that it faces. Bytedance, on Thursday, stated that its Chinese employees can indeed see US data and utilize them. It also stated that, through a letter to the senators, that it is working with Oracle to increase its data security in the unforseen future. This new immense project, titled Project Texas, will traffic all US data collections to Oracle Cloud, with no allowance to the Chinese Communist Party. This infrastructure will be separate from Douyin, its Chinese company.
+
+Although it is commendable that the company admits its faults and does all it can to mend the damage, the damge is already done. There is possibly US data in CCP, and every wrongdoing must face its consequences. The technology and the algorithm used in this project can also further benefit the future cybersecurity of US, which is very commendable. However, TikTok should be banned from US unless the security of US data can be proven and they must have evidence of it.
